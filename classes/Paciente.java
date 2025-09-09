@@ -10,5 +10,15 @@ public class Paciente {
     this.cpf = cpf;
     this.idade = idade;
     }
+
+    public String getNome() {
+        return this.nome;
+    }
+    public String getCpf() {
+        return this.cpf;
+    }
+    public int getIdade() {
+        return this.idade;
+    }
 }
 
