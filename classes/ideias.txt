@@ -1,0 +1,14 @@
+paciente{
+    nome
+    idade
+    cpf{
+        verificador de cpf na hora de cadastrar
+    }
+    consultas médicas passadas{
+        data
+        médico
+        internado? (s/n) - tempo de internação ent/sd
+        valor pago
+    }
+}
+

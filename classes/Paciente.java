@@ -20,5 +20,21 @@ public class Paciente {
     public int getIdade() {
         return this.idade;
     }
+    public void setNome(String nome){
+        this.nome = nome;
+    }
+    public void setCpf(String cpf){
+     this.cpf = cpf;
+    }
+    public void setIdade(int idade){
+        this.idade = idade;
+    }
+
+    public void mostrarPaciente(){
+        System.out.println("Nome: " + this.nome);
+        System.out.println("CPF: " + this.cpf);
+        System.out.println("Idade: " + this.idade);
+    }
+    
 }
 
