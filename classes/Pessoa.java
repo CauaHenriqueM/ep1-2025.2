@@ -1,11 +1,11 @@
 package classes;
 
-public class Paciente {
+public class Pessoa {
     private String nome;
     private String cpf;
     private int idade;
 
-    public Paciente(String nome, String cpf, int idade){
+    public Pessoa(String nome, String cpf, int idade){
     this.nome = nome;
     this.cpf = cpf;
     this.idade = idade;
@@ -30,7 +30,7 @@ public class Paciente {
         this.idade = idade;
     }
 
-    public void mostrarPaciente(){
+    public void mostrarPessoa(){
         System.out.println("Nome: " + this.nome);
         System.out.println("CPF: " + this.cpf);
         System.out.println("Idade: " + this.idade);
