@@ -1,14 +1,16 @@
 package classes;
 
-public class Pessoa {
+public class Paciente {
     private String nome;
     private String cpf;
     private int idade;
 
-    public Pessoa(String nome, String cpf, int idade){
+    public Paciente(String nome, String cpf, int idade){
     this.nome = nome;
     this.cpf = cpf;
     this.idade = idade;
+
+    System.out.println("Paciente cadastrado.");
     }
 
     public String getNome() {
@@ -30,7 +32,7 @@ public class Pessoa {
         this.idade = idade;
     }
 
-    public void mostrarPessoa(){
+    public void mostrarPaciente(){
         System.out.println("Nome: " + this.nome);
         System.out.println("CPF: " + this.cpf);
         System.out.println("Idade: " + this.idade);
