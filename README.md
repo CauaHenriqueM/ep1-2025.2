@@ -10,45 +10,49 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Cauã Henrique Moura Rodrigues
+- **Matrícula:** 231026661
+- **Curso:** Engenharia de Software
+- **Turma:** T02
 
 ---
 
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   Só rodar Hospital.java
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   no Terminal rodar a Main
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   /hospital(aqui sao salvos os dados)
+   /////////////src(classes)
+   /
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   java 24.0.2
 
----
 
 ## Vídeo de Demonstração
 
-- [Inserir o link para o vídeo no YouTube/Drive aqui]
+- 
 
 ---
 
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+  <img width="351" height="206" alt="image" src="https://github.com/user-attachments/assets/a3ba9de5-dee6-41d2-a481-981ee78a9558" />
+
 
 2. Cadastro de Médico:  
-   ![Inserir Print 2](caminho/do/print2.png)
+   <img width="551" height="548" alt="image" src="https://github.com/user-attachments/assets/a7386051-99ed-4e31-9cba-2115d4e291ee" />
+
 
 3. Relatório de ?:  
-   ![Inserir Print 3](caminho/do/print3.png)
+   <img width="989" height="250" alt="image" src="https://github.com/user-attachments/assets/c834f5e0-ed79-4e06-bbe2-336ad5176cce" />
+
 
 ---
 
@@ -56,13 +60,13 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- cara eu n vou inserir o link pq eu vou ser super sincero. Eu usei i.a pra finalizar os codigos q eu n tava conseguindo pq n entendi nada de Java. O proximo projeto em Python vou me dedicar já que é uma linguagem q domino.
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- 
 
 ---
 
