@@ -1,0 +1,1 @@
+package hospital; public enum InternmentStatus { ACTIVE, DISCHARGED, CANCELLED }

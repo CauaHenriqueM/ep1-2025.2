@@ -1,0 +1,1 @@
+24|bradesco|1|radiologia:0.5
